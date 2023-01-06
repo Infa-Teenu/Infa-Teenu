@@ -1,6 +1,6 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# 🖖 Hey dev! Welcome to my profile <img align="right" src="images/computer.gif">
+# 🖖 Hey dev! Welcome to my profile <img align="right" src="New folder/computer.gif">
 
 I'm a front-end developer!
 
