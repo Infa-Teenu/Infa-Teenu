@@ -19,7 +19,7 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 - 🌎 I'm from India
 - 👨🏻‍💻 Love programming
 - 🧠 Love sharing knowledge
-- 🌌 Passionate for astronomy
+- 🌌 I like to explore new technologies and develop software solutions
 - ✈️ Traveling is one of my favorite hobbies
 - 📧 Reach me via teenuuu7337@gmail.com
 
