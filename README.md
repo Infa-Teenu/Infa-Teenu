@@ -60,7 +60,7 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
-  <a href="https://www.linkedin.com/in/luis-silva-8b0334185/">
+  <a href="https://www.linkedin.com/in/%C3%ADnfa-teenu-ba54a7184/">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
 <a href="https://instagram.com/luis_gustavoj">
