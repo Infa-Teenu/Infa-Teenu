@@ -1,6 +1,6 @@
-<img src="./images/computer.gif" width="100%"/>
+<img src="./New folder/computer.gif" width="100%"/>
 
-# 🖖 Hey dev! Welcome to my profile <img align="right" src="New folder/computer.gif">
+# 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=Infa-Teenu&style=flat-square&color=blueviolet">
 
 I'm a front-end developer!
 
@@ -8,7 +8,7 @@ I've been working and studying technology since 2018, and during this time I wor
 
 What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
 
-If you want you can visit my [portfolio](https://luisoila.dev/)
+If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 
 ## 👨🏻‍💻 About me
 
@@ -16,12 +16,12 @@ If you want you can visit my [portfolio](https://luisoila.dev/)
 
 <img src="./images/message.gif" width="300px" align="right">
 
-- 🌎 I'm from Brazil
-- 👨🏻‍💻 Love programming and gaming
+- 🌎 I'm from India
+- 👨🏻‍💻 Love programming
 - 🧠 Love sharing knowledge
 - 🌌 Passionate for astronomy
 - ✈️ Traveling is one of my favorite hobbies
-- 📧 Reach me via luisg.juliao@gmail.com
+- 📧 Reach me via teenuuu7337@gmail.com
 
 <br>
 <br>
