@@ -2,7 +2,7 @@
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=Infa-Teenu&style=flat-square&color=blueviolet">
 
-I'm a front-end developer!
+I'm a software developer!
 
 I've been working and studying technology since 2018, and during this time I worked with diverse types of projects like gaming programming, web programming, app programming
 
@@ -35,9 +35,7 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
 ![ReactJS Logo](/images/reactjs.svg)
-![NextJS Logo](/images/nextjs.svg)
-![Typescript Logo](/images/typescript.svg)
-![React-Native Logo](/images/react-native.svg)
+
 
 ## 📊 Take a look in my stats
 
