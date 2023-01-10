@@ -2,7 +2,7 @@
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=Infa-Teenu&style=flat-square&color=blueviolet">
 
-I'm a software developer!
+I'm a software developer <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px height = 18px>
 
  I've 2 years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
@@ -22,6 +22,7 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 - 🌌 I like to explore new technologies and develop software solutions
 - ✈️ Traveling is one of my favorite hobbies
 - :nerd_face: Always `learning new things`
+- 🤔 I’m currently open for: a new <b>job opportunity</b>
 <br>
 <br>
 
