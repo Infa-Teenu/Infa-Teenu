@@ -63,6 +63,7 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
+   <img src='/images/purplehandshake.gif' width="70px" height="50px"><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://www.linkedin.com/in/%C3%ADnfa-teenu-ba54a7184/">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
