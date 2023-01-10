@@ -14,7 +14,7 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 
 <br>
 
-<img src="./images/message.gif" width="300px" align="right">
+<img src="./images/hi.gif" width="300px" align="right">
 
 - 🌎 I'm from India
 - :technologist: I love using Software as a solution for every `Problem`
@@ -22,10 +22,6 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 - 🌌 I like to explore new technologies and develop software solutions
 - ✈️ Traveling is one of my favorite hobbies
 - :nerd_face: Always `learning new things`
-
-<br>
-<br>
-<br>
 <br>
 <br>
 
