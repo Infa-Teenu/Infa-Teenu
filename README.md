@@ -4,7 +4,7 @@
 
 I'm a software developer!
 
- I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+ I've 2 years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
 I worked with diverse types of projects like gaming programming, web programming, app programming.I love learning new techs and using new tools.
 
