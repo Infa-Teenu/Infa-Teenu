@@ -4,9 +4,9 @@
 
 I'm a software developer!
 
-I've been working and studying technology since 2018, and during this time I worked with diverse types of projects like gaming programming, web programming, app programming
+ I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
-What made me fall in love with web development and front-end is the capability to create interfaces and in some kind make art, when developing I feel like I'm making art with coding.
+I worked with diverse types of projects like gaming programming, web programming, app programming.I love learning new techs and using new tools.
 
 If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 
@@ -17,10 +17,11 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 <img src="./images/message.gif" width="300px" align="right">
 
 - 🌎 I'm from India
-- 👨🏻‍💻 Love programming
+- :technologist: I love using Software as a solution for every `Problem`
 - 🧠 Love sharing knowledge
 - 🌌 I like to explore new technologies and develop software solutions
 - ✈️ Traveling is one of my favorite hobbies
+- :nerd_face: Always `learning new things`
 
 <br>
 <br>
