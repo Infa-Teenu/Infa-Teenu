@@ -9,10 +9,11 @@ I'm a software developer <img src = "https://media2.giphy.com/media/QssGEmpkyEOh
 I worked with diverse types of projects like gaming programming, web programming, app programming.I love learning new techs and using new tools.
 
 If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
-
-## 👨🏻‍💻 About me
-
 <br>
+<br>
+<br>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+
 
 <img src="./images/hi.gif" width="300px" align="right">
 
