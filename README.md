@@ -20,7 +20,7 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 - 🌎 I'm from India
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">  I love using Software as a solution for every `Problem`
 - 🧠 Love sharing knowledge
-- 🌌 I like to explore new technologies and develop software solutions
+- 🌌 I like to explore new technologies
 - ✈️ Traveling is one of my favorite hobbies
 - :nerd_face: Always `learning new things`
 - 🤔 I’m currently open for: a new <b>job opportunity</b>
