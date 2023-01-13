@@ -46,15 +46,13 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
 </div>
 <br>
 <br>
-
+ 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
   <br>
-
-  
-  
-  
+ 
+   ### <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats :
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
