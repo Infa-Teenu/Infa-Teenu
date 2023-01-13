@@ -86,7 +86,7 @@ If you want you can visit my [portfolio](http://infaportfolio.unaux.com/?i=1)
   <a href="https://www.linkedin.com/in/%C3%ADnfa-teenu-ba54a7184/">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
-<a href="https://www.instagram.com/c_born_2_liv_happiee/?next=%2F">
+<a href="https://www.instagram.com/she_is_infa/">
 <code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
 </a>
 </p>
